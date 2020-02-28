@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1582891615 source:d:\program\computer systems\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582891855 source:d:\program\computer systems\show-bytes.c
+	<stdio.h>
+
