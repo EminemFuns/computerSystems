@@ -1,8 +1,46 @@
 # depslib dependency file v1.0
-1582891615 source:d:\program\computer systems\main.c
+1583570732 source:d:\program\computer systems\main.c
 	<stdio.h>
-	<stdlib.h>
 
-1582891855 source:d:\program\computer systems\show-bytes.c
+1583571124 source:d:\program\computer systems\show-bytes.c
 	<stdio.h>
+
+1583216891 source:d:\program\computer systems\258_is_little_endian.c
+
+1582983081 source:d:\program\computer systems\259.c
+	<assert.h>
+	<stdio.h>
+
+1582985648 source:d:\program\computer systems\260.c
+
+1583469555 source:d:\program\computer systems\261.c
+
+1583469775 source:d:\program\computer systems\262.c
+
+1583475167 source:d:\program\computer systems\263.c
+
+1583475167 source:d:\program\computer systems\264.c
+
+1583049297 source:d:\program\computer systems\266.c
+
+1583475167 source:d:\program\computer systems\267.c
+
+1583476871 source:d:\program\computer systems\268.c
+
+1583477762 source:d:\program\computer systems\269.c
+
+1583481444 source:d:\program\computer systems\270.c
+
+1583484058 source:d:\program\computer systems\271.c
+
+1583486070 source:d:\program\computer systems\274.c
+	<limits.h>
+
+1583484651 source:d:\program\computer systems\272.c
+
+1583502285 source:d:\program\computer systems\275.c
+
+1583503408 source:d:\program\computer systems\281.c
+
+1583566112 source:d:\program\computer systems\292.c
 

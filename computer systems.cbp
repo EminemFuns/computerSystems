@@ -31,6 +31,60 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="258_is_little_endian.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="259.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="260.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="261.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="262.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="263.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="264.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="266.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="267.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="268.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="269.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="270.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="271.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="272.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="274.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="275.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="281.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="292.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
